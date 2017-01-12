@@ -176,6 +176,29 @@ public class Launcher {
                                 }
                         }
 
+		if(a>1){
+                        if(a>2){
+                                if(a>3){
+                                        if(a>4){
+                                                if(a>100){
+                                                System.out.println("Add some co$
+                                                }
+                                        }
+                                }
+                        }
+		
+		if(a>1){
+                        if(a>2){
+                                if(a>3){
+                                        if(a>4){
+                                                if(a>100){
+                                                System.out.println("Add some co$
+                                                }
+                                        }
+                                }
+                        }
+	
+
 	}
 
 
