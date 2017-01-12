@@ -151,6 +151,34 @@ public class Launcher {
 	 * @param game
 	 *            The game that will process the events.
 	 */
+	protected void addComplexityAndSizeMethod(int a) {
+		
+		
+		if(a>1){
+			if(a>2){
+				if(a>3){
+					if(a>4){
+						if(a>100){
+						System.out.println("Add some complexity");}
+						}
+					}
+				}
+			}
+		
+		if(a>1){
+                        if(a>2){
+                                if(a>3){
+                                        if(a>4){
+                                                if(a>100){
+                                                System.out.println("Add some co$
+                                                }
+                                        }
+                                }
+                        }
+
+	}
+
+
 	protected void addSinglePlayerKeys(final PacManUiBuilder builder, final Game game) {
 		final Player p1 = getSinglePlayer(game);
 
