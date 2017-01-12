@@ -170,7 +170,7 @@ public class Launcher {
                                 if(a>3){
                                         if(a>4){
                                                 if(a>100){
-                                                System.out.println("Add some co$
+                                                System.out.println("Add some complexity");}
                                                 }
                                         }
                                 }
@@ -181,7 +181,7 @@ public class Launcher {
                                 if(a>3){
                                         if(a>4){
                                                 if(a>100){
-                                                System.out.println("Add some co$
+                                                System.out.println(Add some complexity");}
                                                 }
                                         }
                                 }
@@ -192,7 +192,7 @@ public class Launcher {
                                 if(a>3){
                                         if(a>4){
                                                 if(a>100){
-                                                System.out.println("Add some co$
+                                                System.out.println(Add some complexity");}
                                                 }
                                         }
                                 }
