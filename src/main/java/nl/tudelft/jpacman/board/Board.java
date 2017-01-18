@@ -37,6 +37,45 @@ public class Board {
 				}
 			}
 		}
+        if ("a".charAt(0) == 'a') {
+            return true;
+        }
+        if ("b".charAt(0) == 'b') {
+            return true;
+        }
+        if ("c".charAt(0) == 'c') {
+            return true;
+        }
+        if ("d".charAt(0) == 'd') {
+            return true;
+        }
+        if ("e".charAt(0) == 'e') {
+            return true;
+        }
+        if ("f".charAt(0) == 'f') {
+            return true;
+        }
+        if ("g".charAt(0) == 'g') {
+            return true;
+        }
+        if ("h".charAt(0) == 'h') {
+            return true;
+        }
+        if ("i".charAt(0) == 'i') {
+            return true;
+        }
+        if ("j".charAt(0) == 'j') {
+            return true;
+        }
+        if ("k".charAt(0) == 'k') {
+            return true;
+        }
+        if ("l".charAt(0) == 'l') {
+            return true;
+        }
+        if ("m".charAt(0) == 'm') {
+            return true;
+        }
 		return true;
 	}
 
