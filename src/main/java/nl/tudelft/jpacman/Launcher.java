@@ -161,22 +161,6 @@ public class Launcher {
 				.addKey(KeyEvent.VK_RIGHT, moveTowardsDirection(game, p1, Direction.EAST));
 	}
 
-	protected void complexityViolationMethod(int a) {
-		
-		if(a>1){
-			if(a>2){
-				if(a>3){
-					if(a>4){
-						if(a>100){
-						System.out.println("Add some complexity");}
-						}
-					}
-				}
-			}
-
-	}
-
-
 	private Action moveTowardsDirection(final Game game, final Player p1, Direction direction) {
 		return new Action() {
 
