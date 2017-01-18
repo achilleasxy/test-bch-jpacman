@@ -69,24 +69,24 @@ public class MapParser {
 		List<NPC> ghosts = new ArrayList<>();
 		List<Square> startPositions = new ArrayList<>();
 
-		makeGrid(map, width, height, grid, ghosts, startPositions);
+		makeGrid(map, width, height, grid, ghosts);
 		
 		Board board = boardCreator.createBoard(grid);
 		return levelCreator.createLevel(board, ghosts, startPositions);
 	}
 
 	private void makeGrid(char[][] map, int width, int height,
-			Square[][] grid, List<NPC> ghosts, List<Square> startPositions) {
+			Square[][] grid, List<NPC> ghosts) {
 		for (int x = 0; x < width; x++) {
 			for (int y = 0; y < height; y++) {
 				char c = map[x][y];
-				addSquare(grid, ghosts, startPositions, x, y, c);
+				addSquare(grid, ghosts, startPositions);
 			}
 		}
 	}
 
 	private void addSquare(Square[][] grid, List<NPC> ghosts,
-			List<Square> startPositions, int x, int y, char c) {
+			List<Square> startPositions) {
 		switch (c) {
 		case ' ':
 			grid[x][y] = boardCreator.createGround();
