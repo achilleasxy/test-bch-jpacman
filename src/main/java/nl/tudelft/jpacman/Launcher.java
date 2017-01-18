@@ -160,14 +160,14 @@ public class Launcher {
 				.addKey(KeyEvent.VK_LEFT, moveTowardsDirection(game, p1, Direction.WEST))
 				.addKey(KeyEvent.VK_RIGHT, moveTowardsDirection(game, p1, Direction.EAST));
 	}
-	protected void complexityViolationMethod(int a, int b, int c, int d, int e, int f, int g, String v) {
-		
+	
+	protected void complexityAndUnitInterfacingViolationMethod(int a, int b, int c, int d, int e, int f, int g, String v) {
+		/* This method introduces one complexity and one unit interfacing violation */
 		if(a>1){
 			if(b>2){
 				if(c>3){
 					if(d>4){
-						if(e>100){
-						System.out.println("Add some complexity "+v);}
+						if(e>100){System.out.println("Add some complexity "+v);}
 						}
 					}
 				}
