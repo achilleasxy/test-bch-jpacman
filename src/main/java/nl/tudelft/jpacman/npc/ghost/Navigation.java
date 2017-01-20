@@ -60,7 +60,7 @@ public final class Navigation {
 	}
 
 	private static void addNewTargets(Unit traveller, List<Node> targets,
-			Set<Square> visited, Node n, Square s) {
+			Set<Square> visited) {
 		for (Direction d : Direction.values()) {
 			Square target = s.getSquareAt(d);
 			if (!visited.contains(target)

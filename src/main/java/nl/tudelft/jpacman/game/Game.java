@@ -102,4 +102,22 @@ public abstract class Game implements LevelObserver {
 	public void levelLost() {
 		stop();
 	}
+		public static int fact(int n)
+	{	int result = 0;
+		if(n == 0)
+			result = 1;
+		else
+			result = n * fact(n-1);
+		return result;
+	}
+
+	public static int fib(int n)
+	{	int result = 0;
+		if(n == 1 || n == 2)
+			result = 1;
+		else
+			result = fib(n-1) + fib(n-2);
+		return result;
+	}
+
 }
