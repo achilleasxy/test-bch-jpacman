@@ -2,8 +2,6 @@ Travis: ![build status](https://travis-ci.org/SERG-Delft/jpacman-framework.svg?b
 
 BetterCodeHub: [![BCH compliance](https://bettercodehub.com/edge/badge/achilleasxy/test-bch-jpacman)](https://bettercodehub.com)
 
-BetterCodeHub local: [![BCH compliance](http://e4992edc.ngrok.io/edge/badge/achilleasxy/test-bch-jpacman)](https://bettercodehub.com)
-
 JPacman-Framework
 =================
 
