@@ -10,9 +10,9 @@ Mockito: [![BCH compliance](https://1efaccea.ngrok.io/edge/badge/achilleasxy/moc
 
 Openpilot: [![BCH compliance](https://1efaccea.ngrok.io/edge/badge/achilleasxy/openpilot)](http://127.0.0.1:8100/)
 
-Dash-iOS: [![BCH compliance](hhttps://1efaccea.ngrok.io/edge/badge/achilleasxy/Dash-iOS)](http://127.0.0.1:8100/)
+Dash-iOS: [![BCH compliance](https://1efaccea.ngrok.io/edge/badge/achilleasxy/Dash-iOS)](http://127.0.0.1:8100/)
 
-Unknown: [![BCH compliance](hhttps://1efaccea.ngrok.io/edge/badge/achilleasxy/qwede)](http://127.0.0.1:8100/)
+Unknown: [![BCH compliance](https://1efaccea.ngrok.io/edge/badge/achilleasxy/qwede)](http://127.0.0.1:8100/)
 
 
 JPacman-Framework
