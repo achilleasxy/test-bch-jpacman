@@ -6,11 +6,6 @@ Lcl: [![BCH compliance](https://3d69b57a.ngrok.io/edge/badge/achilleasxy/test-bc
 
 TestBCH: [![BCH compliance](https://3d69b57a.ngrok.io/edge/badge/TestBCH/test-bch-jpacman)](http://127.0.0.1:8100/)
 
-Mockito: [![BCH compliance](https://3d69b57a.ngrok.io/edge/badge/achilleasxy/mockito)](http://127.0.0.1:8100/)
-
-Openpilot: [![BCH compliance](https://3d69b57a.ngrok.io/edge/badge/achilleasxy/openpilot)](http://127.0.0.1:8100/)
-
-Dash-iOS: [![BCH compliance](https://3d69b57a.ngrok.io/edge/badge/achilleasxy/Dash-iOS)](http://127.0.0.1:8100/)
 
 JPacman-Framework
 =================
