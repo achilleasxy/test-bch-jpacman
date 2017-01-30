@@ -4,7 +4,6 @@ BetterCodeHub: [![BCH compliance](https://bettercodehub.com/edge/badge/achilleas
 
 Lcl: [![BCH compliance](https://3d69b57a.ngrok.io/edge/badge/achilleasxy/test-bch-jpacman)](http://127.0.0.1:8100/)
 
-TestBCH: [![BCH compliance](https://3d69b57a.ngrok.io/edge/badge/TestBCH/test-bch-jpacman)](http://127.0.0.1:8100/)
 
 Mockito: [![BCH compliance](https://3d69b57a.ngrok.io/edge/badge/achilleasxy/mockito)](http://127.0.0.1:8100/)
 
