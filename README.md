@@ -2,6 +2,7 @@ Travis: ![build status](https://travis-ci.org/SERG-Delft/jpacman-framework.svg?b
 
 BetterCodeHub: [![BCH compliance](https://bettercodehub.com/edge/badge/achilleasxy/test-bch-jpacman)](https://bettercodehub.com)
 
+Local: [![BCH compliance](https://bettercodehub.com/edge/badge/achilleasxy/Dash-iOS)](https://bettercodehub.com)
 
 JPacman-Framework
 =================
