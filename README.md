@@ -1,10 +1,10 @@
 Travis: ![build status](https://travis-ci.org/SERG-Delft/jpacman-framework.svg?branch=master)
 
-BetterCodeHub: [![BCH compliance](https://bettercodehub.com/edge/badge/achilleasxy/test-bch-jpacman)](https://bettercodehub.com)
+BetterCodeHub: [![BCH compliance](http://bettercodehub.com/edge/badge/achilleasxy/test-bch-jpacman)](https://bettercodehub.com)
 
-Local: [![BCH compliance](https://26b2a772.ngrok.io/edge/badge/achilleasxy/Dash-iOS)](https://bettercodehub.com)
+Local: [![BCH compliance](http://26b2a772.ngrok.io/edge/badge/achilleasxy/Dash-iOS)](https://bettercodehub.com)
 
-[![BCH compliance](https://26b2a772.ngrok.io/edge/badge/TestBCH/test-bch-jpacman)](https://bettercodehub.com)
+[![BCH compliance](http://26b2a772.ngrok.io/edge/badge/TestBCH/test-bch-jpacman)](https://bettercodehub.com)
 
 JPacman-Framework
 =================
