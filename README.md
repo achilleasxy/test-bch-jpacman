@@ -4,6 +4,8 @@ BetterCodeHub: [![BCH compliance](https://bettercodehub.com/edge/badge/achilleas
 
 Local: [![BCH compliance](https://26b2a772.ngrok.io/edge/badge/achilleasxy/Dash-iOS)](https://bettercodehub.com)
 
+[![BCH compliance](https://26b2a772.ngrok.io/edge/badge/TestBCH/test-bch-jpacman)](https://bettercodehub.com)
+
 JPacman-Framework
 =================
 
