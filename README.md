@@ -5,7 +5,7 @@ BetterCodeHub: [![BCH compliance](http://bettercodehub.com/edge/badge/achilleasx
 Local: [![BCH compliance](http://26b2a772.ngrok.io/edge/badge/achilleasxy/Dash-iOS)](https://bettercodehub.com)
 
 TestBCH: [![BCH compliance](http://26b2a772.ngrok.io/edge/badge/TestBCH/test-bch-jpacman)](https://bettercodehub.com)
-test
+
 
 JPacman-Framework
 =================
