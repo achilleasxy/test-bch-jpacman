@@ -1,10 +1,6 @@
-Travis: ![build status](https://travis-ci.org/SERG-Delft/jpacman-framework.svg?branch=master)
+![build status](https://travis-ci.org/SERG-Delft/jpacman-framework.svg?branch=master)
 
-Jpac from bch.com: [![BCH compliance](http://bettercodehub.com/edge/badge/achilleasxy/test-bch-jpacman)](https://bettercodehub.com)
 
-BCH: [![BCH compliance](http://bc00a4d7.ngrok.io/edge/badge/Software-Improvement-Group/BetterCodeHub)](https://bettercodehub.com)
-
-Openp: [![BCH compliance](http://bc00a4d7.ngrok.io/edge/badge/achilleasxy/openpilot)](https://bettercodehub.com)
 
 JPacman-Framework
 =================
