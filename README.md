@@ -1,4 +1,4 @@
-![build status](https://travis-ci.org/SERG-Delft/jpacman-framework.svg?branch=master) [![BCH compliance](https://bettercodehub.com/edge/badge/achilleasxy/test-bch-jpacman)](https://bettercodehub.com)
+![build status](https://travis-ci.org/SERG-Delft/jpacman-framework.svg?branch=master) [![BCH compliance](https://2d8b04e8.ngrok.io/edge/badge/achilleasxy/test-bch-jpacman)](https://bettercodehub.com)
 
 
 
