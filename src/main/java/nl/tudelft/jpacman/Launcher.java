@@ -151,6 +151,7 @@ public class Launcher {
 	 * @param game
 	 *            The game that will process the events.
 	 */
+
 	protected void addSinglePlayerKeys(final PacManUiBuilder builder, final Game game) {
 		final Player p1 = getSinglePlayer(game);
 
@@ -158,6 +159,20 @@ public class Launcher {
 				.addKey(KeyEvent.VK_DOWN, moveTowardsDirection(game, p1, Direction.SOUTH))
 				.addKey(KeyEvent.VK_LEFT, moveTowardsDirection(game, p1, Direction.WEST))
 				.addKey(KeyEvent.VK_RIGHT, moveTowardsDirection(game, p1, Direction.EAST));
+	}
+	
+	protected void complexityAndUnitInterfacingViolationMethod(int a, int b, int c, int d, int e, int f, int g, String v) {
+		/* This method introduces one complexity and one unit interfacing violation */
+		if(a>1){
+			if(b>2){
+				if(c>3){
+					if(d>4){
+						if(e>100){System.out.println("Add some complexity "+v);}
+						}
+					}
+				}
+			}
+
 	}
 
 	private Action moveTowardsDirection(final Game game, final Player p1, Direction direction) {
