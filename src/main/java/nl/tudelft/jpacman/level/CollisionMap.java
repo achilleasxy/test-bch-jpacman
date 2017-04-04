@@ -9,7 +9,9 @@ import nl.tudelft.jpacman.board.Unit;
  * @author Jeroen Roosen 
  */
 public interface CollisionMap {
-
+	
+	//Adding a comment
+	public int x;
 	/**
 	 * Collides the two units and handles the result of the collision, which may
 	 * be nothing at all.
