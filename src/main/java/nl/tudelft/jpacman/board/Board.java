@@ -1,5 +1,5 @@
 package nl.tudelft.jpacman.board;
-
+//Add comment
 /**
  * A top-down view of a matrix of {@link Square}s.
  * 
