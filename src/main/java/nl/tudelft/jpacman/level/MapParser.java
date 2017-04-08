@@ -170,14 +170,7 @@ public class MapParser {
 		if (width == 0) {
 			throw new PacmanConfigurationException(
 				"Input text lines cannot be empty.");
-		}
-
-		for (String line : text) {
-			if (line.length() != width) {
-				throw new PacmanConfigurationException(
-					"Input text lines are not of equal width.");
-			}
-		}		
+		}	
 	}
 
 	/**
